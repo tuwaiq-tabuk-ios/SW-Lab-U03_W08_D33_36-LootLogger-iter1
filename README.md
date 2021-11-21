@@ -34,3 +34,15 @@ First iteration of LootLogger App where users can add, delete and move Item inst
 Monday 22nd November 9:15 am
 
 
+
+https://user-images.githubusercontent.com/91871792/142772342-22e4c5b1-f42f-445d-a4e2-9401359de546.mp4
+
+
+
+https://user-images.githubusercontent.com/91871792/142772370-65068834-9691-4d5d-a559-20768b444305.mp4
+
+
+
+
+https://user-images.githubusercontent.com/91871792/142772385-58b153da-99f7-4fe5-8a35-b940652c4fc1.mp4
+
