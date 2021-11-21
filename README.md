@@ -30,7 +30,15 @@ First iteration of LootLogger App where users can add, delete and move Item inst
    - Make it so that if there are no items, the `UITableView` displays a cell that has the text No items!. This row should not appear if there are items to display, and it should not be able to be deleted or reordered. 
 
 
+
 ## Deadline 
 Monday 22nd November 9:15 am
+
+
+
+
+
+<img width="357" alt="Screenshot 1443-04-17 at 12 16 42 AM" src="https://user-images.githubusercontent.com/91861800/142779242-95c9ed19-e328-415b-9a6f-4848efe639f7.png">
+
 
 
